@@ -1,6 +1,9 @@
 # pandas-challenge
 Hello and thank you for you time!
 
+For the redo: Prior to running the cell that starts with the following code: school_spending_df['Per Student Budget'] = school_spending_df['Per Student Budget'].str.replace('$', '') ), be sure to run the previous cells so that it'll work properly
+
+
 Coding help I used on this challenge:
 1.	Conversion help from
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.set_index.html
