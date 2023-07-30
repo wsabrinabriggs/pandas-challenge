@@ -1,6 +1,6 @@
 # pandas-challenge
 Hello and thank you for you time!
-Please use PyCitySchools_redo.ipynb for review my re-submission.
+Please use PyCitySchools_redo.ipynb for reviewing my re-submission.
 
 Also, for the redo:
 Prior to running the cell that starts with the following code: school_spending_df['Per Student Budget'] = school_spending_df['Per Student Budget'].str.replace('$', '') ), be sure to run the previous cells so that it'll work properly
